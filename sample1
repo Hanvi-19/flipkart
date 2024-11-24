@@ -1,3 +1,7 @@
 this is the file creatde in flipkart folder
 to practice git sessions
+<<<<<<< HEAD
 this is form main branch
+=======
+want to add in dev file branch
+>>>>>>> dev_1.0
