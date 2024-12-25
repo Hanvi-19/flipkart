@@ -1,6 +1,6 @@
 class Simple{  
     public static void main(String args[]){  
      System.out.println("Hello Java for git");
-     System.out.println("added this in main branch");  
+     System.out.println("added this in test branch");  
     }  
 }  
